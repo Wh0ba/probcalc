@@ -1,0 +1,11 @@
+{
+  "commitish" : "1.9.2",
+  "iOS" : [
+    {
+      "hash" : "48659efa6da39d1516553b93cd23336f4ad5d27e673e52897d4d968e23031308",
+      "name" : "HandyUIKit",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    }
+  ]
+}

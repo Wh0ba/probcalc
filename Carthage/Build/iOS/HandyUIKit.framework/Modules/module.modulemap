@@ -1,0 +1,4 @@
+framework module HandyUIKit {
+  header "HandyUIKit-Swift.h"
+  requires objc
+}
