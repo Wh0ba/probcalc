@@ -68,7 +68,8 @@
                                     <segment title="First"/>
                                     <segment title="Second"/>
                                 </segments>
-                                <color key="tintColor" red="0.44037288429999999" green="0.3850278258" blue="0.76474338770000005" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <color key="selectedSegmentTintColor" red="0.44037288429999999" green="0.3850278258" blue="0.76474338770000005" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <connections>
                                     <action selector="segmentChange:" destination="Kum-8I-f8D" eventType="valueChanged" id="nhl-Qm-IiS"/>
                                 </connections>

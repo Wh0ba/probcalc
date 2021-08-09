@@ -43,6 +43,9 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
         
         modeSegment.setTitle("Combination", forSegmentAt: 0)
         modeSegment.setTitle("Premutation", forSegmentAt: 1)
+        let textAttributes = [NSAttributedString.Key.foregroundColor: UIColor.white]
+        modeSegment.setTitleTextAttributes(textAttributes, for: .normal)
+        modeSegment.setTitleTextAttributes(textAttributes, for: .selected)
         
         historyTableView.layer.cornerRadius = 10
         historyTableView.clipsToBounds = true
